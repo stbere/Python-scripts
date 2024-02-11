@@ -1,4 +1,5 @@
 # Python-scripts
 Repository for my Python scripting
 
-<script src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40.js"></script>
+![Nyan]([https://example.com/funny.gif](https://www.icegif.com/wp-content/uploads/2023/02/icegif-1500.gif)https://www.icegif.com/wp-content/uploads/2023/02/icegif-1500.gif)
+
