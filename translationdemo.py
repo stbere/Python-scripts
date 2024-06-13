@@ -82,5 +82,5 @@ target_language = 'ar'
 translated_elements = extract_and_translate_pdf(file_path, target_language)
 print_translated_elements(translated_elements)
 
-# Use the command below in cmd to run the translationdemo app. For different languages, change the ar -- language codes here: https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
+# Use the command below in cmd to run the translationdemo app. For different languages, change the ar at the end of your command -- language codes here: https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
 # python app.py "path\file\TheFileNameOfTheDocumentIWantTranslated.pdf" ar
